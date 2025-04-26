@@ -1,0 +1,2 @@
+A working refrigerator.Clean, odorless.
+Height 190;width 60;depth 60.Drip.
